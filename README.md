@@ -1,10 +1,15 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4F46E5,100:06B6D4&text=Pranjali%20Pongde&fontColor=ffffff&fontSize=45&fontAlignY=35" />
+</p>
+
 # 👋 Hi, I'm Pranjali R. Pongde  
 ### Frontend Developer | React.js Specialist | Freelancer  
 
 I build clean, modern, and high-performing web interfaces using **React.js, Next.js, JavaScript (ES6+), TypeScript, and Tailwind CSS**.  
 My focus is simple — **pixel-perfect UI, smooth UX, fast load speed, and maintainable code**.
 
-I help startups, businesses, and individuals turn ideas into functional digital products.
+I help startups, businesses, and individuals turn their ideas into functional digital products.
 
 ---
 
@@ -21,10 +26,10 @@ I help startups, businesses, and individuals turn ideas into functional digital 
 ### **Core Skills**
 - Responsive UI / Mobile-First Design  
 - Figma → UI Conversion  
-- API Integration (REST/JSON)  
+- REST API Integration (JSON, CRUD)  
 - Accessibility (A11y)  
 - Performance Optimization (Lighthouse)  
-- Debugging & Browser Compatibility  
+- Debugging & Cross-Browser Compatibility  
 - Component Architecture & Clean Code  
 
 ### **Tools**
@@ -38,12 +43,12 @@ I help startups, businesses, and individuals turn ideas into functional digital 
 ---
 
 # 🧩 Freelancing Services  
-I help clients with:
+Helping clients with:
 
 ✔️ Business Websites  
 ✔️ Landing Pages  
 ✔️ Personal Portfolios  
-✔️ React / Next.js Apps  
+✔️ React / Next.js Web Apps  
 ✔️ UI Redesign & Modernization  
 ✔️ Website Speed Optimization  
 ✔️ Figma → Frontend Conversion  
@@ -52,16 +57,15 @@ I help clients with:
 ---
 
 # ✨ Why Work With Me
-- Clean, maintainable, scalable code  
-- Pixel-perfect UI with attention to detail  
-- Strong communication & fast turnaround  
-- Client-first approach with smooth collaboration  
-- Modern tech stack + industry best practices  
+- Clean, scalable & maintainable code  
+- Pixel-perfect UI with strong attention to detail  
+- Smooth UX & fast delivery  
+- Client-first approach  
+- Modern tech & best practices  
 
 ---
 
 # 📊 GitHub Stats  
-*(Stats will auto-update)*
 
 <p align="left">
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=pranjalipongde&show_icons=true&theme=tokyonight" />
@@ -71,7 +75,7 @@ I help clients with:
 ---
 
 # 📫 Let’s Connect  
-If you're looking to collaborate or need a website built — feel free to reach out!
+Looking to collaborate or need a website built? Let’s talk!
 
 📩 **Email:** pranjalipongde0997@gmail.com  
 🌐 **Portfolio:** https://pranjali-pongde.vercel.app  
@@ -80,5 +84,8 @@ If you're looking to collaborate or need a website built — feel free to reach 
 
 ---
 
-# 🌱 Currently Exploring  
-Advanced React Patterns • TypeScript • Design Systems • Web Animations  
+# 🌱 Currently Working On  
+- Advanced React Patterns  
+- TypeScript Best Practices  
+- UI Architecture & Web Animations  
+- **DSA (Data Structures & Algorithms)**  
