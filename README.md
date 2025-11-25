@@ -1,5 +1,4 @@
 
-
 # 👋 Hi, I'm Pranjali R. Pongde  
 ### Frontend Developer | React.js Specialist | Freelancer  
 
