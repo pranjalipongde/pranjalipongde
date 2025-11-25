@@ -1,6 +1,6 @@
 
 # 👋 Hi, I'm Pranjali R. Pongde  
-### Frontend Developer | React.js Specialist | Freelancer  
+### Frontend Developer | React.js Developer | Freelancer  
 
 I build clean, modern, and high-performing web interfaces using **React.js, Next.js, JavaScript (ES6+), TypeScript, and Tailwind CSS**.  
 My work focuses on **pixel-perfect UI, smooth UX, high performance, and scalable code architecture**.
