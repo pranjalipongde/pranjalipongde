@@ -1,16 +1,84 @@
-## Hi there 👋
+# 👋 Hi, I'm Pranjali R. Pongde  
+### Frontend Developer | React.js Specialist | Freelancer  
 
-<!--
-**pranjalipongde/pranjalipongde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build clean, modern, and high-performing web interfaces using **React.js, Next.js, JavaScript (ES6+), TypeScript, and Tailwind CSS**.  
+My focus is simple — **pixel-perfect UI, smooth UX, fast load speed, and maintainable code**.
 
-Here are some ideas to get you started:
+I help startups, businesses, and individuals turn ideas into functional digital products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🚀 Tech Stack & Tools
+
+### **Frontend**
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-2f74c0?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white)
+
+### **Core Skills**
+- Responsive UI / Mobile-First Design  
+- Figma → UI Conversion  
+- API Integration (REST/JSON)  
+- Accessibility (A11y)  
+- Performance Optimization (Lighthouse)  
+- Debugging & Browser Compatibility  
+- Component Architecture & Clean Code  
+
+### **Tools**
+![Git](https://img.shields.io/badge/Git-f24333?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-635bff?style=for-the-badge&logo=vite&logoColor=yellow)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-0E7C86?style=for-the-badge&logo=netlify&logoColor=white)
+
+---
+
+# 🧩 Freelancing Services  
+I help clients with:
+
+✔️ Business Websites  
+✔️ Landing Pages  
+✔️ Personal Portfolios  
+✔️ React / Next.js Apps  
+✔️ UI Redesign & Modernization  
+✔️ Website Speed Optimization  
+✔️ Figma → Frontend Conversion  
+✔️ Website Maintenance & Fixes  
+
+---
+
+# ✨ Why Work With Me
+- Clean, maintainable, scalable code  
+- Pixel-perfect UI with attention to detail  
+- Strong communication & fast turnaround  
+- Client-first approach with smooth collaboration  
+- Modern tech stack + industry best practices  
+
+---
+
+# 📊 GitHub Stats  
+*(Stats will auto-update)*
+
+<p align="left">
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=pranjalipongde&show_icons=true&theme=tokyonight" />
+<img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalipongde&theme=tokyonight" />
+</p>
+
+---
+
+# 📫 Let’s Connect  
+If you're looking to collaborate or need a website built — feel free to reach out!
+
+📩 **Email:** pranjalipongde0997@gmail.com  
+🌐 **Portfolio:** https://pranjali-pongde.vercel.app  
+💼 **LinkedIn:** https://www.linkedin.com/in/pranjali-pongde/  
+💻 **GitHub:** https://github.com/pranjalipongde  
+
+---
+
+# 🌱 Currently Exploring  
+Advanced React Patterns • TypeScript • Design Systems • Web Animations  
