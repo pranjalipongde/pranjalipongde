@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4F46E5,100:06B6D4&text=Pranjali%20Pongde&fontColor=ffffff&fontSize=45&fontAlignY=35" />
 </p>
 
-# 👋 Hi, I'm Pranjali R. Pongde  
+# 👋 Hi, I'm Pranjali Pongde  
 ### Frontend Developer | React.js Specialist | Freelancer  
 
 I build clean, modern, and high-performing web interfaces using **React.js, Next.js, JavaScript (ES6+), TypeScript, and Tailwind CSS**.  
