@@ -1,7 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4F46E5,100:06B6D4&text=Pranjali%20Pongde&fontColor=ffffff&fontSize=45&fontAlignY=35" />
-</p>
+
 
 # 👋 Hi, I'm Pranjali R. Pongde  
 ### Frontend Developer | React.js Specialist | Freelancer  
